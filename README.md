@@ -11,6 +11,7 @@ Notes:
 
 
 Release Features:
+
 1. + Batch translate mode.
 1. + Support more than 80 languages.
 1. + Translate one file to multi files.
