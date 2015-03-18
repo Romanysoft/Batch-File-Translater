@@ -1,0 +1,20 @@
+{
+    "header": {
+        "import_file": "Import File",
+        "version": "Version"
+    },
+    "content": {
+        "target_lang": "Target language",
+        "select_input_lang": "Select input language",
+        "select_output_lang": "Select the output language",
+        "translate_fail": "Sorry, failed attempts to translate, make sure your network connection or feedback to us, thank you."
+    },
+    "remind": {
+        "title": "Remind",
+        "welcome": "Your evaluation, our motivation.",
+        "rated": "I have evaluated",
+        "later": "Remind later",
+        "rate": "Give me Rating",
+        "faq": "Feedback"
+    }
+}
