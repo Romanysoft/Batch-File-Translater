@@ -1,0 +1,88 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
+        "Buy": "Buy",
+        "Documents": "Documentation",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "The Key-Value file translation tool for your daily multilingual needs.",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "Buy",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Main Features",
+            "list": [
+                "Batch translate mode.",
+                "Support more than 80 languages.",
+                "Translate one file to multi files.",
+                "Add custom file suffix for all codec.",
+                "Translate Text file.",
+                "Translate JSON file.",
+                "Translate XML file.",
+                "Translate INI file.",
+                "Translate CSV file.",
+                "Translate PLIST file."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Wonderful things people are saying about",
+            "list": [
+
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "{{1.18}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{BatchFileTranslater-v1.18.0-darwin-x64.zip}}",
+                        "size": "{{7.9MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/14sobubkcol5/BatchFileTranslater-v1.18.0-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Buy",
+        "list": [
+            {
+                "name": "{{Batch File Translater for Mac}}",
+                "logo": "{{images/buy/buy.png}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-18}}"
+            },            
+            {
+                "name": "{{Batch File Translater for Mac App Store}}",
+                "logo": "{{images/buy/mas.png}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/batch-file-translater/id966479521?l=zh&ls=1&mt=12}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available language(MT)",
+        "ChangeAlert": "Switching language to complete"
+    }
+}
