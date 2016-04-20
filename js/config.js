@@ -4,7 +4,7 @@
         appID:"com.romanysoft.app.macos.FileTranslater",
         documentTitle:"BatchFileTranslater By Romanysoft",
         supportPlatforms:["Mac"],
-        googleUA:"UA-43238484-11",
+        googleUA:"UA-76676167-7",
         gitHome:"//github.com/Romanysoft/Batch-File-Translater",
         reportIssueUrl:"//github.com/Romanysoft/Batch-File-Translater/issues",
         changeLogUrl:"//github.com/Romanysoft/Batch-File-Translater/wiki/Changelog",
